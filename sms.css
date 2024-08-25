@@ -1,0 +1,398 @@
+body {
+
+
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-left: 150px;
+}
+
+
+
+
+.bag_img {
+    width: 90%;
+
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.top {
+    margin-left: 415px;
+}
+
+.div1 {
+    background: color #f5eee9;
+    ;
+    justify-content: center;
+}
+
+.div2 {
+
+
+
+    background-color: #f5eee9;
+    margin-left: -43px;
+    height: 133%;
+    width: 89%;
+    padding-left: 2rem;
+    padding-top: 1.2rem;
+    border-radius: 16px;
+}
+
+
+.new-section {
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.new-section h2 {
+    margin-bottom: 10px;
+}
+
+.new-section p {
+    font-size: 16px;
+    color: #333;
+}
+
+
+.not {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-left: 150px;
+}
+
+.not_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+
+.image-grid2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 21px;
+    margin-left: 129px;
+    margin-top: 262px;
+}
+
+
+.image-grid3 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-left: 150px;
+
+    width: 90%;
+}
+
+
+
+
+.div23 {
+
+
+
+    background-color: #e7e7ed;
+    margin-left: -43px;
+    height: 133%;
+    width: 89%;
+    padding-left: 2rem;
+    padding-top: 1.2rem;
+    border-radius: 16px;
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+
+}
+
+
+
+.flex_width {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #f5eee9;
+
+    height: 51px;
+    width: 100%;
+
+    position: fixed;
+}
+
+.bimage {
+    width: 80%;
+    height: auto;
+
+    display: flow-root;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 140px;
+    justify-content: center;
+
+}
+
+.left_nav {
+
+    width: 67%;
+
+}
+
+.bimage {
+    background-image: url(./images/hero-two-dark.png);
+}
+
+
+
+.img1 {
+    width: 820px;
+    height: 530px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 109px;
+
+    margin-top: 64px;
+
+
+}
+
+
+.me {
+    display: flex;
+
+    background-color: #f5eee9;
+
+    height: 650px;
+}
+
+.me2 {
+    margin-left: 30px;
+    margin-top: 139px;
+}
+
+.mail{
+
+    width: 248px;
+    height: 31px;
+    
+}
+
+.brand-01 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    background-color: #f5eee9;
+
+    height: 108px;
+}
+
+.pos {
+    background-color: burlywood;
+}
+
+.section0 {
+
+    background-color: #f5eee9;
+    width: 100%;
+
+}
+
+.stack {
+
+    background-color: aqua;
+    height: 294px;
+    width: 283px;
+    border-radius: 30px;
+    position: relative;
+    display: flow-root;
+    box-sizing: border-box;
+}
+
+.book {
+    background-color: #f5eee9;
+    height: 620px;
+    width: 378px;
+
+    border-radius: 16px;
+    margin-left: 30px;
+}
+
+.lap {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+.code {
+
+
+    height: 323px;
+    width: 374px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 0px;
+    margin-top: 13px;
+}
+
+
+
+.cal {
+    background-color: #f5eee9;
+    height: 500px;
+    width: 767px;
+    border-radius: 16px;
+    margin-left: 279px;
+}
+
+.book1 {
+    display: flex;
+    background-color: #f5eee9;
+    height: 443px;
+    width: 307px;
+
+    border-radius: 16px;
+    border: 1px solid;
+}
+
+.land {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.book2 {
+    display: flex;
+    background-color: #f5eee9;
+    height: 443px;
+    width: 307px;
+
+    border-radius: 16px;
+    border: 1px solid;
+
+}
+
+.pop {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #f5eee9;
+    height: 500px;
+    margin-top: -129px;
+}
+
+
+
+.inner {
+    background-color: #f5eee9;
+    ;
+    border-radius: 10px;
+    height: 110px;
+    width: 100px;
+}
+
+.book3 {
+
+
+    display: flex;
+    height: 258px;
+    width: 300px;
+    border-radius: 16px;
+    border: 1px solid;
+    margin-top: 93px;
+
+
+
+}
+
+.icon {
+    height: 60px;
+    width: 60px;
+}
+
+.footer {
+
+
+    min-height: 400px;
+    padding: 5px;
+}
+
+
+.flex {
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.tel {
+    margin-left: 477px;
+}
+
+
+.cat {
+    display: flex;
+}
+
+
+
+.bookk {
+
+    background-color: #f5eee9;
+    height: 589px;
+    width: 378px;
+
+    border-radius: 16px;
+    margin-left: 30px;
+    margin-bottom: 235px
+}
+
+.btn {
+
+
+    background-color: #0f604db8;
+    height: 35px;
+    border: none;
+
+
+}
+
+/* .bg_img{
+    width: 300px;
+    height: 200px;
+} */
+
+/* img{
+    max-width: 100%;
+    max-height: 100%;
+} */
+.mino {
+    border-radius: 20px;
+}
